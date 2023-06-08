@@ -1,0 +1,73 @@
+{
+	"title": {
+		"media": {
+			"url": "https://www.shutterstock.com/image-photo/opened-book-stacks-old-books-260nw-1950634651.jpg",
+			"caption": "Linea de Tiempo",
+			"credit": ""
+		},
+		"text": {
+			"headline": "Linea de Tiempo",
+			"text": "<p>Fernando - Scarlett</p>"
+		}
+	},
+
+		"events": [
+		  {
+			"media": {
+			  "url": "https://es.wikipedia.org/wiki/Archivo:Punic_wars-es.svg",
+			  "caption": "Mapa del Imperio Romano durante las Guerras Púnicas.",
+			  "credit": "Autor desconocido, dominio público"
+			},
+			"start_date": {
+			  "year": "-201"
+			},
+			"text": {
+			  "headline": "Segunda Guerra Púnica",
+			  "text": "<p>La Segunda Guerra Púnica fue un conflicto militar que tuvo lugar entre los años 218 a.C. y 201 a.C. Fue protagonizado por Roma y Cartago, y es conocida por la figura del general cartaginés Aníbal Barca y sus famosas estrategias militares, como el cruce de los Alpes.</p>"
+			}
+		  },
+		  {
+			"media": {
+			  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg/1200px-Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg",
+			  "caption": "La Fundación de Roma según la mitología romana.",
+			  "credit": "Pintura de Raphael, dominio público"
+			},
+			"start_date": {
+			  "year": "-753"
+			},
+			"text": {
+			  "headline": "Fundación de Roma",
+			  "text": "<p>Según la mitología romana, Roma fue fundada en el año 753 a.C. por Rómulo y Remo, quienes fueron criados por una loba. Esta ciudad se convertiría en la capital de uno de los imperios más poderosos de la historia.</p>"
+			}
+		  },
+		  {
+			"media": {
+			  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Acueducto_de_Segovia_01.jpg/300px-Acueducto_de_Segovia_01.jpg",
+			  "caption": "El Acueducto de Segovia, construido durante la época romana.",
+			  "credit": "Autor desconocido, dominio público"
+			},
+			"start_date": {
+			  "year": "-50"
+			},
+			"text": {
+			  "headline": "Construcción del Acueducto de Segovia",
+			  "text": "<p>El Acueducto de Segovia, una de las obras de ingeniería romana más impresionantes, fue construido alrededor del año 50 a.C. para llevar agua a la ciudad de Segovia, en la actual España. Aún se encuentra en pie y es considerado un símbolo de la ciudad.</p>"
+			}
+		  },
+		  {
+			"media": {
+			  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/El_Greco_-_Adoration_of_the_Name_of_Jesus_-_Google_Art_Project.jpg/300px-El_Greco_-_Adoration_of_the_Name_of_Jesus_-_Google_Art_Project.jpg",
+			  "caption": "La 'Adoración del Nombre de Jesús' de El Greco.",
+			  "credit": "El Greco, dominio público"
+			},
+			"start_date": {
+			  "year": "1571"
+			},
+			"text": {
+			  "headline": "Batalla de Lepanto",
+			  "text": "<p>La Batalla de Lepanto, ocurrida el 7 de octubre de 1571, fue un enfrentamiento naval entre la Liga Santa, encabezada por España, y el Imperio Otomano. La Liga Santa logró una importante victoria, deteniendo el avance otomano en el Mediterráneo y asegurando la supremacía naval de los estados europeos.</p>"
+			}
+		  }
+		]
+	  }
+	  
