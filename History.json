@@ -14,252 +14,388 @@
 		"events": [
 		  {
 			"media": {
-			  "url": "https://es.wikipedia.org/wiki/Archivo:Punic_wars-es.svg",
-			  "caption": "Mapa del Imperio Romano durante las Guerras Púnicas.",
+			  "url": "./img/1.jpg",
+			  "caption": "",
 			  "credit": "Autor desconocido, dominio público"
 			},
 			"start_date": {
-			  "year": "-201"
+			  "year": "-5000"
 			},
 			"text": {
-			  "headline": "Segunda Guerra Púnica",
-			  "text": "<p>La Segunda Guerra Púnica fue un conflicto militar que tuvo lugar entre los años 218 a.C. y 201 a.C. Fue protagonizado por Roma y Cartago, y es conocida por la figura del general cartaginés Aníbal Barca y sus famosas estrategias militares, como el cruce de los Alpes.</p>"
+			  "headline": "EDAD DE BRONCE",
+			  "text": "<p>El comienzo de la Edad del Bronce en varias regiones del mundo fue un hito significativo en la historia  de la humanidad. La metalurgia del bronce  permitió el desarrollo de herramientas y armas más  sofisticadas, lo que a su vez influyó en la forma en que las sociedades antiguas interactuaban, comerciaban  y se desarrollaban. La Edad  del Bronce sentó las bases  para futuros avancestecnológicos y culturales, y su legado perduró durante  siglos en diversas  civilizaciones alrededor del mundo.</p>"
 			}
 		  },
 
 		{
   "media": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg/1200px-Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg",
-    "caption": "La Fundación de Roma según la mitología romana.",
-    "credit": "Pintura de Raphael, dominio público"
+    "url": "./img/2.png",
+    "caption": "Escritura cuneiforme en una tablilla de arcilla.",
+    "credit": "Foto de Osama Shukir Muhammed Amin"
+  },
+  "start_date": {
+    "year": "-3500"
+  },
+  "text": {
+    "headline": "La invención de la escritura",
+    "text": "<p>La invención de la escritura en Mesopotamia y Egipto fue un logro trascendental que revolucionó la forma en que la humanidad transmitía, registraba y compartía conocimientos. Este hito sentó las bases para el desarrollo de la educación, la ciencia, la literatura y la preservación de la historia, y estableció los cimientos para el avance de las sociedades y el progreso de la civilización.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/3.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "-3000"
+  },
+  "text": {
+    "headline": "Desarrollo de las primeras civilizaciones",
+    "text": "<p>Se desarrollaron las primeras civilizaciones en el valle del Indo, Mesopotamia y Egipto. Estas civilizaciones sentaron las bases de la sociedad urbana, la agricultura avanzada y los sistemas políticos y religiosos organizados. En el valle del Indo, se destacó la civilización del valle del Indo con ciudades bien planificadas. En Mesopotamia, surgieron los sumerios, acadios y babilonios, con avances en agricultura y escritura cuneiforme. En Egipto, la antigua civilización egipcia floreció a lo largo del Nilo, con su complejo sistema político y religioso.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/4.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "-2500"
+  },
+  "text": {
+    "headline": "Construcción de las grandes pirámides de Egipto",
+    "text": "<p>Construcción de las grandes pirámides de Egipto, testimonio de la habilidad arquitectónica y la organización social de la época. Durante este período, se erigieron algunas de las estructuras más icónicas de la historia, como las pirámides de Giza. Estas magníficas construcciones, como la Gran Pirámide de Keops, muestran el dominio técnico y matemático de los antiguos egipcios. Estas estructuras monumentales se han convertido en símbolos duraderos del antiguo Egipto y su legado arquitectónico perdura hasta nuestros días.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/5.png",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "-1200"
+  },
+  "text": {
+    "headline": "Período de migraciones de los Pueblos del Mar",
+    "text": "<p>Período de migraciones de los Pueblos del Mar, que causaron inestabilidad en civilizaciones mediterráneas y cambios culturales y políticos significativos. Estas migraciones, protagonizadas por diferentes grupos nómadas, como los filisteos, los dorios y los eolios, impactaron en sociedades como Egipto, Anatolia y el mundo micénico. Se desencadenaron conflictos, colapsos de imperios y movimientos poblacionales masivos, alterando el equilibrio de poder y dando paso a nuevas formas de organización política y cultural en la región mediterránea.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/6.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "-776"
+  },
+  "text": {
+    "headline": "Primera celebración de los antiguos Juegos Olímpicos",
+    "text": "<p>Primera celebración registrada de los antiguos Juegos Olímpicos en Grecia, un evento deportivo y cultural de gran importancia en la antigüedad. Los Juegos Olímpicos reunían a atletas de diferentes polis (ciudades-estado griegas) para competir en pruebas atléticas en honor a los dioses griegos. Estos juegos se llevaban a cabo cada cuatro años en la ciudad de Olimpia y se convirtieron en un símbolo de unidad y competencia pacífica entre las diversas comunidades griegas. Los Juegos Olímpicos continuaron celebrándose durante más de mil años, dejando un legado duradero en la historia del deporte y la cultura.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/8.png",
+    "caption": "",
+    "credit": ""
   },
   "start_date": {
     "year": "-753"
   },
   "text": {
     "headline": "Fundación de Roma",
-    "text": "<p>Según la mitología romana, Roma fue fundada en el año 753 a.C. por Rómulo y Remo, quienes fueron criados por una loba. Esta ciudad se convertiría en la capital de uno de los imperios más poderosos de la historia.</p>"
-  }
-},
-{
-  "media": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1200px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
-    "caption": "El Coliseo en Roma.",
-    "credit": "Foto de Diliff, bajo licencia CC BY-SA 3.0"
-  },
-  "start_date": {
-    "year": "80"
-  },
-  "text": {
-    "headline": "Construcción del Coliseo",
-    "text": "<p>La construcción del Coliseo en Roma se inició en el año 70-72 d.C. y se completó en el año 80 d.C. Este anfiteatro, conocido por su arquitectura impresionante, fue utilizado para diversos eventos, incluyendo luchas de gladiadores y representaciones teatrales.</p>"
-  }
-},
-{
-  "media": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sack_of_Rome_by_the_Visigoths_on_24_August_410_by_JN_Sylvestre_1890.jpg/1200px-Sack_of_Rome_by_the_Visigoths_on_24_August_410_by_JN_Sylvestre_1890.jpg",
-    "caption": "El saqueo de Roma por los visigodos en el año 410.",
-    "credit": "Pintura de J.N. Sylvestre, dominio público"
-  },
-  "start_date": {
-    "year": "410"
-  },
-  "text": {
-    "headline": "Saqueo de Roma por los visigodos",
-    "text": "<p>En el año 410, la ciudad de Roma fue saqueada por los visigodos, liderados por el rey Alarico. Este evento marcó un hito importante en la caída del Imperio Romano de Occidente y simbolizó la vulnerabilidad de la antigua capital imperial.</p>"
+    "text": "<p>Tradicional fecha de fundación de Roma, una ciudad que se convertiría en una de las más poderosas y duraderas de la antigüedad. A lo largo de los siglos, Roma creció en tamaño y poder, pasando de ser una pequeña aldea a un imperio extenso que abarcaba gran parte de Europa, África del Norte y Oriente Medio. Roma se destacó por su gobierno republicano, su sistema legal y su influencia en áreas como la arquitectura, el arte y la literatura. Su legado perdura hasta nuestros días.</p>"
   }
 },
 
 {
   "media": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/The_Odoacer_Challenge_Romulus_Augustulus.jpg/1200px-The_Odoacer_Challenge_Romulus_Augustulus.jpg",
-    "caption": "Romulus Augustulus depuesto por Odoacro en el año 476.",
-    "credit": "Pintura de Eugène Delacroix,dominio público"
+    "url": "./img/7.png",
+    "caption": "",
+    "credit": ""
   },
-
   "start_date": {
-    "year": "476"
+    "year": "-500"
+  },
+  "text": {
+    "headline": "Apogeo de la civilización griega clásica",
+    "text": "<p>Apogeo de la civilización griega clásica. Destacados filósofos como Sócrates, Platón y Aristóteles emergieron, junto al desarrollo del arte, literatura y democracia en Atenas. La Edad de Oro de Grecia fue una época de profundo pensamiento filosófico y exploración intelectual. Obras como las tragedias de Sófocles, las comedias de Aristófanes y el florecimiento democrático en Atenas marcaron este período.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/9.png",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "-334"
+  },
+  "text": {
+    "headline": "Expedición de Alejandro Magno",
+    "text": "<p>Alejandro Magno inicia su expedición hacia el este, conquistando el vasto imperio persa y difundiendo la cultura helenística en gran parte del mundo conocido. El ambicioso líder macedonio lideró un ejército formidable a través de Asia, derrotando a los persas en importantes batallas. Su imperio se extendió desde Grecia hasta Egipto, Persia y más allá. Durante su reinado, Alejandro promovió la fusión de las culturas griega y persa, dejando un legado duradero en términos de intercambio cultural y sincretismo.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/10.png",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "-27"
+  },
+  "text": {
+    "headline": "Fundación del Imperio Romano",
+    "text": "<p>Fundación del Imperio Romano por Octavio Augusto, primer emperador, iniciando un largo periodo de dominio romano en Europa y el Mediterráneo. Bajo el gobierno de Augusto y sus sucesores, el Imperio Romano se expandió, consolidando su poder y estableciendo un sistema administrativo eficiente. Este imperio abarcó vastas tierras, difundiendo la cultura romana, las leyes y la infraestructura por todo su territorio. El Imperio Romano dejó un legado duradero en la historia, influyendo en el desarrollo político y cultural de numerosas civilizaciones.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/11.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "400"
   },
   "text": {
     "headline": "Caída del Imperio Romano de Occidente",
-    "text": "<p>En el año 476, el último emperador romano de Occidente, Rómulo Augústulo, fue depuesto por el líder germánico Odoacro. Este evento marcó el final del Imperio Romano de Occidente y el comienzo de la Edad Media en Europa.</p>"
+    "text": "<p>Caída del Imperio Romano de Occidente debido a invasiones bárbaras y presiones internas. Este evento marca el fin de la antigüedad clásica y el inicio de la Edad Media en Europa. Las invasiones de tribus germánicas, como los visigodos, ostrogodos y vándalos, debilitaron y finalmente derrocaron al Imperio Romano de Occidente. Este colapso condujo a cambios sociales, políticos y culturales significativos, dando paso a un nuevo período histórico caracterizado por la descentralización del poder y el surgimiento de reinos y sociedades feudales.</p>"
   }
 },
 
-  {
-    "media": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Justinianus_I.jpg/1200px-Justinianus_I.jpg",
-      "caption": "El emperador Justiniano I.",
-      "credit": "Pintura de desconocido, dominio público"
-    },
-    "start_date": {
-      "year": "527"
-    },
-    "text": {
-      "headline": "Reinado de Justiniano I",
-      "text": "<p>Justiniano I fue un emperador bizantino que gobernó desde el año 527 hasta el 565. Durante su reinado, Justiniano llevó a cabo importantes reformas legales y militares, y se destacó por su intento de restaurar el antiguo Imperio Romano. Su legado incluye la recopilación y codificación del derecho romano en el Corpus Juris Civilis.</p>"
-    }
+{
+  "media": {
+    "url": "./img/12.jpg",
+    "caption": "",
+    "credit": ""
   },
-  {
-    "media": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Charlemagne_Palace_of_Aachen_Palatine_Chapel.jpg/1200px-Charlemagne_Palace_of_Aachen_Palatine_Chapel.jpg",
-      "caption": "La Capilla Palatina de Carlomagno en Aquisgrán.",
-      "credit": "Foto de Zairon, bajo licencia CC BY-SA 3.0"
-    },
-    "start_date": {
-      "year": "800"
-    },
-    "text": {
-      "headline": "Coronación de Carlomagno",
-      "text": "<p>En el año 800, Carlomagno, rey de los francos, fue coronado emperador del Sacro Imperio Romano Germánico por el papa León III. Esta coronación marcó un intento de revivir el antiguo Imperio Romano en Europa y tuvo un gran impacto en la política y la historia medieval.</p>"
-    }
+  "start_date": {
+    "year": "500"
   },
-  {
-    "media": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Battle_of_Hastings.jpg/1200px-Battle_of_Hastings.jpg",
-      "caption": "La Batalla de Hastings en el año 1066.",
-      "credit": "Pintura de Tommaso Bizzelli, dominio público"
-    },
-    "start_date": {
-      "year": "1066"
-    },
-    "text": {
-      "headline": "Batalla de Hastings",
-      "text": "<p>La Batalla de Hastings tuvo lugar en el año 1066 y fue un conflicto crucial en la historia de Inglaterra. Guillermo el Conquistador, duque de Normandía, derrotó al rey Harold II de Inglaterra, estableciendo así el dominio normando en el país y cambiando la historia y la cultura inglesa.</p>"
-    }
-  },
-  {
-    "media": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Seisen.jpg/1200px-Seisen.jpg",
-      "caption": "La Séptima Cruzada liderada por Luis IX de Francia.",
-      "credit": "Pintura de Gustave Doré, dominio público"
-    },
-    "start_date": {
-      "year": "1248"
-    },
-    "text": {
-      "headline": "Séptima Cruzada",
-      "text": "<p>La Séptima Cruzada fue liderada por Luis IX de Francia y tuvo lugar entre los años 1248 y 1254. El objetivo de esta cruzada era recuperar Jerusalén y otros territorios sagrados en Tierra Santa. Aunque no logró su objetivo principal, esta cruzada dejó un impacto significativo en las relaciones entre Europa y el Medio Oriente.</p>"
-    }
-  },
-  {
-    "media": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Mongol_Empire_map.gif/1200px-Mongol_Empire_map.gif",
-      "caption": "El Imperio Mongol en su máxima extensión.",
-      "credit": "Mapa de Ian Mladjov, bajo licencia CC BY-SA 3.0"
-    },
-    "start_date": {
-      "year": "1206"
-    },
-    "text": {
-      "headline": "Imperio Mongol",
-      "text": "<p>El Imperio Mongol, fundado por Genghis Khan en el año 1206, se convirtió en uno de los imperios más grandes de la historia. Durante el siglo XIII, los mongoles conquistaron y gobernaron vastos territorios en Asia y Europa, dejando un legado duradero en términos de cultura, comercio y política.</p>"
-    }
-  },
-  {
-    "media": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Statue_of_Marco_Polo_at_the_Canale_Grande.jpg/1200px-Statue_of_Marco_Polo_at_the_Canale_Grande.jpg",
-      "caption": "Marco Polo, el famoso explorador y comerciante veneciano.",
-      "credit": "Foto de Moroder, bajo licencia CC BY-SA 4.0"
-    },
-    "start_date": {
-      "year": "1292"
-    },
-    "text": {
-      "headline": "Viaje de Marco Polo",
-      "text": "<p>En el año 1292, Marco Polo, el famoso explorador y comerciante veneciano, regresó a Italia después de su extenso viaje por Asia. Sus relatos detallados de sus experiencias en la corte del emperador mongol Kublai Khan contribuyeron en gran medida al conocimiento europeo sobre el Lejano Oriente y despertaron un interés renovado en las exploraciones.</p>"
-    }
-	  },
-	  
-		{
-		  "media": {
-			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Statue_of_Marco_Polo_at_the_Canale_Grande.jpg/1200px-Statue_of_Marco_Polo_at_the_Canale_Grande.jpg",
-			"caption": "Marco Polo, el famoso explorador y comerciante veneciano.",
-			"credit": "Foto de Moroder, bajo licencia CC BY-SA 4.0"
-		  },
-		  "start_date": {
-			"year": "1292"
-		  },
-		  "text": {
-			"headline": "Regreso de Marco Polo",
-			"text": "<p>En el año 1292, Marco Polo, el famoso explorador y comerciante veneciano, regresó a Italia después de su extenso viaje por Asia. Sus relatos detallados de sus experiencias en la corte del emperador mongol Kublai Khan contribuyeron en gran medida al conocimiento europeo sobre el Lejano Oriente y despertaron un interés renovado en las exploraciones.</p>"
-		  }
-		},
-		{
-		  "media": {
-			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Vasco_da_Gama_sailing_ship.jpg/1200px-Vasco_da_Gama_sailing_ship.jpg",
-			"caption": "El navegante portugués Vasco da Gama.",
-			"credit": "Pintura de desconocido, dominio público"
-		  },
-		  "start_date": {
-			"year": "1498"
-		  },
-		  "text": {
-			"headline": "Descubrimiento de la ruta marítima a la India",
-			"text": "<p>En 1498, el navegante portugués Vasco da Gama llegó a la India por mar, estableciendo una ruta marítima directa desde Europa hasta el subcontinente indio. Este descubrimiento tuvo un impacto significativo en el comercio y la exploración marítima, y allanó el camino para el establecimiento de colonias europeas en la región.</p>"
-		  }
-		},
-
-		{
-		  "media": {
-			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Protestant_Reformation.jpg/1200px-Protestant_Reformation.jpg",
-			"caption": "La Reforma Protestante en el siglo XVI.",
-			"credit": "Pintura de desconocido, dominio público"
-		  },
-		  "start_date": {
-			"year": "1517"
-		  },
-		  "text": {
-			"headline": "Reforma Protestante",
-			"text": "<p>En 1517, el teólogo alemán Martín Lutero inició la Reforma Protestante al publicar sus 95 tesis en las que cuestionaba las prácticas de la Iglesia Católica. Este movimiento reformador, que se extendió por toda Europa, tuvo un profundo impacto religioso, político y cultural, y llevó a la creación de nuevas denominaciones cristianas.</p>"
-		  }
-		},
-
-		{
-		  "media": {
-			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Louis_XIV_of_France.jpg/1200px-Louis_XIV_of_France.jpg",
-			"caption": "El rey Luis XIV de Francia.",
-			"credit": "Pintura de Hyacinthe Rigaud, dominio público"
-		  },
-		  "start_date": {
-			"year": "1643"
-		  },
-
-		  "text": {
-			"headline": "Reinado de Luis XIV",
-			"text": "<p>Luis XIV, también conocido como el Rey Sol, gobernó Francia desde 1643 hasta su muerte en 1715. Durante su largo reinado, Luis XIV consolidó el absolutismo monárquico, promovió el arte y la cultura francesa y expandió el poderío de Francia en Europa.</p>"
-		  }
-		},
-
-		
-  {
-    "media": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Declaration_independence.jpg/1200px-Declaration_independence.jpg",
-      "caption": "La Declaración de Independencia de los Estados Unidos.",
-      "credit": "Pintura de John Trumbull, dominio público"
-    },
-    "start_date": {
-      "year": "1776"
-    },
-    "text": {
-      "headline": "Declaración de Independencia de los Estados Unidos",
-      "text": "<p>En 1776, las colonias británicas en América del Norte emitieron la Declaración de Independencia, proclamando su separación de Gran Bretaña y estableciendo los fundamentos de los Estados Unidos de América como una nación independiente. Este evento marcó un hito en la historia de la democracia y tuvo un impacto duradero en el desarrollo de los derechos individuales y los sistemas políticos modernos.</p>"
-    }
-  },
-  {
-    "media": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Louis_XIV_of_France.jpg/1200px-Louis_XIV_of_France.jpg",
-      "caption": "El rey Luis XIV de Francia.",
-      "credit": "Pintura de Hyacinthe Rigaud, dominio público"
-    },
-    "start_date": {
-      "year": "1643"
-    },
-    "text": {
-      "headline": "Reinado de Luis XIV",
-      "text": "<p>Luis XIV, también conocido como el Rey Sol, gobernó Francia desde 1643 hasta su muerte en 1715. Durante su largo reinado, Luis XIV consolidó el absolutismo monárquico, promovió el arte y la cultura francesa y expandió el poderío de Francia en Europa.</p>"
-    }
+  "text": {
+    "headline": "Alta Edad Media - Cristianismo",
+    "text": "<p>El cristianismo se convierte en la religión predominante en Europa. El Imperio Carolingio es establecido por Carlomagno, quien es coronado Emperador del Sacro Imperio Romano Germánico por el Papa en el año 800. Durante este período, se producen cambios significativos en la estructura política y social de Europa, con la consolidación del poder de la Iglesia y el surgimiento de los reinos cristianos. La influencia de la cultura clásica de la antigua Roma se entrelaza con las tradiciones germánicas y cristianas, sentando las bases para el desarrollo de la civilización medieval.</p>"
   }
+},
+
+{
+  "media": {
+    "url": "./img/13.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "1100"
+  },
+  "text": {
+    "headline": "Baja Edad Media - Cruzadas",
+    "text": "<p>Período de consolidación de las monarquías nacionales en Europa. Las Cruzadas se llevan a cabo con el objetivo de recuperar Tierra Santa de manos musulmanas. Durante este tiempo, se produce un resurgimiento del comercio y el desarrollo urbano en Italia, conocido como el Renacimiento comercial y urbano. Ciudades como Florencia, Venecia y Génova se convierten en importantes centros económicos y culturales, impulsando el intercambio comercial y el florecimiento de las artes, la literatura y la arquitectura. Este período también es testigo de avances en la educación y el pensamiento intelectual.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/14.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "1400"
+  },
+  "text": {
+    "headline": "Renacimiento - Florecimiento General",
+    "text": "<p>Período de florecimiento artístico, científico y filosófico. Surgido en Italia, se expandió por Europa. Grandes figuras como Leonardo da Vinci, Miguel Ángel y Shakespeare destacaron. El Renacimiento revitalizó el interés por la cultura clásica, el humanismo y la exploración intelectual. Se produjeron avances en pintura, escultura, arquitectura y literatura, marcando la transición entre la Edad Media y la era moderna. Este período dejó un legado duradero en el arte, la ciencia y el pensamiento de la humanidad.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/15.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "1517"
+  },
+  "text": {
+    "headline": "Reforma Protestante - Cambios Religiosos",
+    "text": "<p>Movimiento religioso liderado por Martín Lutero que cuestionó la autoridad de la Iglesia Católica y dio lugar a nuevas denominaciones cristianas. La Reforma protestante se centró en principios como la justificación por la fe y la autoridad de la Biblia. Este movimiento tuvo un impacto duradero en la estructura religiosa y política de Europa, generando tensiones y divisiones, así como un mayor enfoque en la libertad religiosa y la interpretación personal de la fe.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/16.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "1715"
+  },
+  "text": {
+    "headline": "Ilustración - Florecimiento Científico",
+    "text": "<p>Movimiento intelectual que enfatizó la razón y el conocimiento científico como motores del progreso. Filósofos destacados como Voltaire, Rousseau y Kant surgieron en esta época. La Ilustración promovió la libertad de pensamiento, los derechos individuales y la crítica a las instituciones tradicionales. Fue una época de cambio y transformación en la política, la filosofía y la ciencia, sentando las bases para el desarrollo de sociedades más liberales y racionales.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/19.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "1760"
+  },
+  "end_date": {
+    "year": "1840"
+  },
+  "text": {
+    "headline": "Revolución Industrial - Nacimiento del Capitalismo",
+    "text": "<p>Transformación económica, social y tecnológica con producción en masa y mecanización. Surgió el capitalismo como sistema económico predominante, impulsando el crecimiento industrial y la urbanización. Se introdujeron nuevas tecnologías, como la máquina de vapor, que revolucionaron la producción y el transporte. La Revolución Industrial tuvo un profundo impacto en la sociedad, generando cambios en las condiciones laborales, el urbanismo y la distribución de la riqueza.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/20.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "1830"
+  },
+  "end_date": {
+    "year": ""
+  },
+  "text": {
+    "headline": "Nacionalismo - Independencia",
+    "text": "<p>Movimiento político y cultural que enfatizó la identidad nacional y la independencia en Europa y América Latina, impulsando luchas por la autodeterminación. Fue un factor clave en la formación de estados nacionales y tuvo un impacto en la cultura y las artes. El nacionalismo promovió el sentido de pertenencia y orgullo hacia la propia nación, influyendo en el desarrollo político y social de la época.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/21.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "1914"
+  },
+  "end_date": {
+    "year": "1918"
+  },
+  "text": {
+    "headline": "Primera Guerra Mundial",
+    "text": "<p>Conflicto global que involucró a las principales potencias europeas y resultó en el colapso de imperios. Fue una guerra devastadora que provocó pérdidas humanas y destrucción a gran escala. Las tensiones políticas, económicas y territoriales desencadenaron el conflicto, sentando las bases para futuros enfrentamientos. La Primera Guerra Mundial también introdujo nuevas formas de guerra, como el uso generalizado de armas químicas y tecnología militar avanzada.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/22.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "1920"
+  },
+  "end_date": {
+    "year": "1938"
+  },
+  "text": {
+    "headline": "Período de Entreguerras",
+    "text": "<p>Marcado por inestabilidad política y económica, surgimiento de regímenes totalitarios y tensiones internacionales. Este período fue un preludio de la Segunda Guerra Mundial. La Gran Depresión, el ascenso de líderes como Hitler y Mussolini, y los conflictos territoriales contribuyeron a la creciente inestabilidad global. Las tensiones y rivalidades entre las potencias llevaron al estallido de la guerra en 1939, desencadenando un conflicto aún más devastador que la Primera Guerra Mundial.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/25.png",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "1939"
+  },
+  "end_date": {
+    "year": "1945"
+  },
+  "text": {
+    "headline": "Segunda Guerra Mundial y Aparición de Superpotencias",
+    "text": "<p>Conflicto global con principales potencias, devastando Europa y el Holocausto. Surgieron superpotencias: Estados Unidos y la Unión Soviética. Impacto político y geográfico duradero. Batallas clave como Stalingrado y Normandía, eventos trascendentales como la caída de Berlín y el uso de bombas atómicas. Cambió la historia y condujo a la Guerra Fría.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/26.png",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "1945"
+  },
+  "end_date": {
+    "year": "1990"
+  },
+  "text": {
+    "headline": "Postguerra y Guerra Fría",
+    "text": "<p>División del mundo en dos bloques liderados por Estados Unidos y la Unión Soviética, con tensiones políticas, ideológicas y militares. Surgió la ONU y se produjo una carrera armamentista. Los conflictos indirectos, como la Guerra de Corea y la Guerra de Vietnam, caracterizaron este período. La Guerra Fría influyó en la política global y llevó a una constante rivalidad entre los dos bloques hasta su disolución en la década de 1990.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/27.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "1990"
+  },
+  "end_date": {
+    "year": ""
+  },
+  "text": {
+    "headline": "Revolución de la Información",
+    "text": "<p>Avance tecnológico en las comunicaciones y la información. Internet, redes sociales y dispositivos móviles transformaron la sociedad y la economía globalmente. Se produjo una mayor conectividad, acceso a la información y nuevas formas de comunicación. Esta revolución tuvo un impacto profundo en diversos ámbitos, como el comercio, la educación, el entretenimiento y la interacción social, cambiando la forma en que las personas se relacionan y acceden al conocimiento.</p>"
+  }
+},
+
+{
+  "media": {
+    "url": "./img/31.jpg",
+    "caption": "",
+    "credit": ""
+  },
+  "start_date": {
+    "year": "2001"
+  },
+  "end_date": {
+    "year": ""
+  },
+  "text": {
+    "headline": "Revolución de la Información",
+    "text": "<p>Avance tecnológico en las comunicaciones y la información. Internet, redes sociales y dispositivos móviles transformaron la sociedad y la economía globalmente. Se produjo una mayor conectividad, acceso a la información y nuevas formas de comunicación. Esta revolución tuvo un impacto profundo en diversos ámbitos, como el comercio, la educación, el entretenimiento y la interacción social, cambiando la forma en que las personas se relacionan y acceden al conocimiento.</p>"
+  }
+}
+
 ]
 
 }
